@@ -1,92 +1,95 @@
 # Navigation
 **Installation: Difficulty / Survival System / Health Management**
 1. [Installation][Installation]
-1. [Difficulty][Difficulty] (Overhaul)
-1. [Desolation Mode][Desolation Mode] (Overhaul)
-1. [Environment][Environment]
-1. [Metabolism][Metabolism] (Survival System)
-1. [Nutrition][Nutrition] (Survival System)
+1. [Difficulty][Difficulty]: General Tweaks
+1. [Desolation Mode][Desolation Mode]: Loot
+1. [Environment][Environment]: Weather, Stroms, Radiation
+1. [Survival System][Survival System]: [Conservation][Conservation] / [Metabolism][Metabolism] / [Nutrition][Nutrition] / [Move][Move]
 
 **Combat (Armor, Damage, ...)**
-1. [Armor][Armor]
-1. [Companions][Companions]
-1. [Damage (Overhaul)][Damage (Overhaul)]
-1. [Enemies][Enemies]
-1. [Enemies (AI Behavior)][Enemies (AI Behavior)]
-1. [Power Armor][Power Armor]
+1. [Armor][Armor] (Overhaul): Resistance vs. Protection, Power Armor, Item Mods
+1. [Companions][Companions]: Dogmeat, Mysterious Stranger, [RC] Power Armor Suite, Wilson
+1. [Damage][Damage] (Overhaul): Kinetic Energy, Hit Zones, Blood Loss ...
+1. [Enemies][Enemies]: AI Behavior, Ambush, Player Threat, Enemy Logic, ...
+1. [Power Armor][Power Armor] (Overhaul)
 1. [V.A.T.S.][V.A.T.S.]
-1. [Weapons][Weapons]
+1. [Weapons][Weapons] (Overhaul)
 
 **Character Progression**
-1. [Educational Material][Educational Material]
+1. [Research Material][Research Material]
 1. [SPECIALs][SPECIALs]
-1. [Skill (Overhaul)][Skill (Overhaul)]
+1. [Skill][Skill] (Overhaul)
 
 **Economy (Settlements, Building)**
 1. [Settlements][Settlements]
-1. [Architect][Settlements (Architect)] (New Skill)
-1. [Defense][Settlements (Defense)]
-1. [Enhanced][Settlements (Enhanced)]
-1. [Farming][Settlements (Farming)] (New Skill)
-1. [Power][Settlements (Power)]
-1. [Production][Settlements (Production)]
+1. [Architect][Settlements (Architect)]: Skill
+1. [Defense][Defense]
+1. [Settlements][Settlements (Enhanced)] (Enhanced)
+1. [Farming][Farming] (Skill)
+1. [Power][Settlements (Power)] Production
+1. [Production][Settlements (Production)] (General)
 
 **General**
 1. [Bugs][Bugs]
 1. [Crafting][Crafting]
-1. [HUD (Extended)][HUD (Extended)]
+1. Crafting: [Cooking Station]
+1. [HUD][HUD] (Extended)
 1. [Trading][Trading]
-1. [Wilson][Wilson]
 
 **Items (Materials, Components, ...)**
 1. [Chems][Chems]
-1. [Components][Components]
-1. [Components (Multi Component Parts)][Components (Multi Component Parts)]
+1. [Components][Components] + [Multi Component Parts][Multi Component Parts]
+1. [Health Items][Health Items]
 1. [Items][Items]
-1. [Loot][Loot]
-1. [Micromanagement][Micromanagement]
+1. [Micromanagement][Micromanagement]: Automation, Controls, Inventory Management, Notification, Time Grinder
+1. [Value][Value]: Items vs. Components
 
 [Armor]: https://github.com/Wastheland/Horizon/wiki/Armor
 [Bugs]: https://github.com/Wastheland/Horizon/wiki/Bugs
-[Chems]: https://github.com/Wastheland/Horizon/wiki/Chems
+[Chems]: https://github.com/Wastheland/Horizon/wiki/Items#chems
+[Cooking Station]: https://github.com/Wastheland/Horizon/wiki/Survival-System#cooking-station
+[Conservation]: https://github.com/Wastheland/Horizon/wiki/Survival-System#conservation
 [Companions]: https://github.com/Wastheland/Horizon/wiki/Companions
-[Components]: https://github.com/Wastheland/Horizon/wiki/Components
-[Components (Multi Component Parts)]: https://github.com/Wastheland/Horizon/wiki/Components-(Multi-Component-Parts)
+[Components]: https://github.com/Wastheland/Horizon/wiki/Items#components
 [Crafting]: https://github.com/Wastheland/Horizon/wiki/Crafting
-[Damage (Overhaul)]: https://github.com/Wastheland/Horizon/wiki/Damage-(Overhaul)
+[Damage]: https://github.com/Wastheland/Horizon/wiki/Damage-(Overhaul)
+[Defense]: https://github.com/Wastheland/Horizon/wiki/Settlements#defense
 [Desolation Mode]: https://github.com/Wastheland/Horizon/wiki/Desolation-Mode
 [Difficulty]: https://github.com/Wastheland/Horizon/wiki/Difficulty
-[Educational Material]: https://github.com/Wastheland/Horizon/wiki/Educational-Material
 [Enemies]: https://github.com/Wastheland/Horizon/wiki/Enemies
-[Enemies (AI Behavior)]: https://github.com/Wastheland/Horizon/wiki/Enemies-(AI-Behavior)
 [Environment]: https://github.com/Wastheland/Horizon/wiki/Environment
 [Experience]: https://github.com/Wastheland/Horizon/wiki/Experience
-[HUD (Extended)]: https://github.com/Wastheland/Horizon/wiki/HUD-(Extended)
-[Installation]: https://github.com/Wastheland/Horizon/wiki/Installation
+[Farming]: https://github.com/Wastheland/Horizon/wiki/Settlements#farming
+[Health Items]: https://github.com/Wastheland/Horizon/wiki/Items#health-items
+[HUD]: https://github.com/Wastheland/Horizon/wiki/Micromanagement#hud
+[Installation]: https://github.com/Wastheland/Horizon/wiki/Difficulty#installation
 [Items]: https://github.com/Wastheland/Horizon/wiki/Items
-[Loot]: https://github.com/Wastheland/Horizon/wiki/Loot
-[Metabolism]: https://github.com/Wastheland/Horizon/wiki/Metabolism
+[Metabolism]: https://github.com/Wastheland/Horizon/wiki/Survival-System#metabolism
 [Micromanagement]: https://github.com/Wastheland/Horizon/wiki/Micromanagement
-[Nutrition]: https://github.com/Wastheland/Horizon/wiki/Nutrition
-[Power Armor]: https://github.com/Wastheland/Horizon/wiki/Power-Armor
+[Move]: https://github.com/Wastheland/Horizon/wiki/Survival-System#aerobic-vs-anaerobic-move
+[Multi Component Parts]: https://github.com/Wastheland/Horizon/wiki/Items#components-multi-component-parts
+[Nutrition]: https://github.com/Wastheland/Horizon/wiki/Survival-System#nutrition
+[Power Armor]: https://github.com/Wastheland/Horizon/wiki/Armor#power-armor
+[Research Material]: https://github.com/Wastheland/Horizon/wiki/Items#research-material
 [Settlements]: https://github.com/Wastheland/Horizon/wiki/Settlements
-[Settlements (Architect)]: https://github.com/Wastheland/Horizon/wiki/Settlements-(Architect)
-[Settlements (Defense)]: https://github.com/Wastheland/Horizon/wiki/Settlements-(Defense)
+[Settlements (Architect)]: https://github.com/Wastheland/Horizon/wiki/Architect
 [Settlements (Enhanced)]: https://github.com/Wastheland/Horizon/wiki/Settlements-(Enhanced)
-[Settlements (Farming)]: https://github.com/Wastheland/Horizon/wiki/Settlements-(Farming)
-[Settlements (Power)]: https://github.com/Wastheland/Horizon/wiki/Settlements-(Power)
-[Settlements (Production)]: https://github.com/Wastheland/Horizon/wiki/Settlements-(Production)
+[Settlements (Power)]: https://github.com/Wastheland/Horizon/wiki/Settlements-(Production)#power-1
+[Settlements (Production)]: https://github.com/Wastheland/Horizon/wiki/Production
+[Skill]: https://github.com/Wastheland/Horizon/wiki/Skill-(Overhaul)
 [SPECIALs]: https://github.com/Wastheland/Horizon/wiki/SPECIALs
-[Skill (Overhaul)]: https://github.com/Wastheland/Horizon/wiki/Skill-(Overhaul)
+[Survival System]: https://github.com/Wastheland/Horizon/wiki/Survival-System
 [Trading]: https://github.com/Wastheland/Horizon/wiki/Trading
-[V.A.T.S.]: https://github.com/Wastheland/Horizon/wiki/V.A.T.S.
+[V.A.T.S.]: https://github.com/Wastheland/Horizon/wiki/SPECIALs#vats
+[Value]: https://github.com/Wastheland/Horizon/wiki/Items#value
 [Weapons]: https://github.com/Wastheland/Horizon/wiki/Weapons
-[Wilson]: https://github.com/Wastheland/Horizon/wiki/Wilson
 
 # Background of this "Wiki"
-> _This Wiki presence is nothing more than a kind of compendium of ideas and vision of a more complex fallout. I would really like to see all of these integrated into Horizon. It's not easy to describe something that doesn't exist in a way that everyone can understand. So don't hold it against me if every now and then whole nice grits are written. . `Thanks to everyone who took on the bombing of ideas and possibly even made them a reality.`_
+<img src="https://static.wikia.nocookie.net/f04horizon_gamepedia_en/images/e/e6/Site-logo.png" height="100" align="left">
 
-_`Special thanks to Zawinul` for the publicly accessible experience: Horizon! A kind of work of art to put it that way. made up for the whole ruined Fallout 4 experience for me._
+> _This Wiki presence is nothing more than a kind of compendium of ideas and vision of a more complex fallout. My way of saying thank you. Of course, i would really like to see all of these integrated into Horizon. It's not easy to describe something that doesn't exist in a way that everyone can understand. So don't hold it against me if every now and then whole nice grits are written. . `Thanks to everyone who took on the bombing of ideas and possibly even made them a reality.`_
+
+💠 `Special THANKS to Zawinul` for the publicly accessible experience: _Horizon_! A work of art. made up for the whole ruined Fallout 4 experience for me! 💠
 
 I can't say enough this mod combines a lot of these and doesn't disappoint. It is art at the highest level. _Support the mod and it will grow and become something really big that will affect many._ The real art of programming and designing a game is not to look beautiful, pictures that hang on the wall can do that much better, but to create an experience, a world that, although it is surreal, pulls you under its spell to such an extent that you forget everything else. If a game or a mod appears inauthentic from the start, the whole magic is quickly over. `it is true art when the player is put into a trance, a kind of hypnotic state in which he sinks and feels good and forgets everything around him. everything that breaks this state is failure on the part of whoever publishes the game.`
 
@@ -136,9 +139,9 @@ Vanilla Fallout 4 in the normal difficulty was very authentic as to the damage o
 Kill speed should look like that:
 <div align="left">
       <a href="https://youtu.be/mZNGtmMxZhA?t=805">
-     <img src="https://img.youtube.com/vi/mZNGtmMxZhA/0.jpg" height="250">
+     <img src="https://img.youtube.com/vi/mZNGtmMxZhA/0.jpg" height="250"">
       <a href="https://youtu.be/mZNGtmMxZhA?t=3177">
-     <img src="https://img.youtube.com/vi/mZNGtmMxZhA/0.jpg" height="250">
+     <img src="https://img.youtube.com/vi/mZNGtmMxZhA/0.jpg" height="250"">
       </a>
     </div>
 
@@ -163,7 +166,7 @@ _at this point I advise everyone to play without armor at all. that really puts 
 ***
 
 **Building Settlements till there is no tomorrow**
-> * https://github.com/Wastheland/Horizon/wiki/Settlements
+> _See: https://github.com/Wastheland/Horizon/wiki/Settlements_
 
 `Building settlements and using production takes an eternity to say the least. in that time i played the game 10 times and earned a lot more loot than the whole production would have ever done.`
 
@@ -178,14 +181,13 @@ pump a few points into the defense of your settlement and hardly ever expect att
 **AI is waiting tooooo long ...**
 NPCs should attack the buildings and production facilities depending on the attack rating. depending on the value of the resources that are produced there. For example, if the player likes to play aggressively, he could increase the production rate but pay the price. that the attack rate increases significantly. In this case there are very interesting attacks and you should stay close to the settlement. that would unlock a whole series of dynamic and minimize the time grinder actions.
 
-> * https://github.com/Wastheland/Horizon/wiki/Enemies
-> * https://github.com/Wastheland/Horizon/wiki/Enemies-(AI-Behavior)
+> _See: https://github.com/Wastheland/Horizon/wiki/Enemies_
 
 The AI and NPCs in general is a big disappointment. simply stripped without great variance, even if horizon is already taking a strong countermeasure here. it still not finished. the main impact could be the increase in the field of vision. if NPCs could see as far as the player, there would be a lot more challenges. if the NPCs are equipped with precision rifles.. so why is the AI kept so small with handicaps. corvega a is a very good example that the AI gives a sh!t. _you can see so far from there you would notice almost everything.._
 
+> **Summary**
+> well there is so much room for improvement! this game is realesed as unfinished business `finish it ZAW` you're doing a great job already. **Why making so many difficulties?** its a mod not FO5. why not simply release this mod in desolation mode only? together with a 1:1 damage ratio of course with an armor, damage and AI overhaul. in this case you would make sure everyone talking about the same issue(s). with various difficulties you and everyone else is doomed to run into confusion. `although i can understand your attitude if you say everyone should have the opportunity to play the game as they want.`
+
 ***
 
-**Summary**
-well there is so much room for improvement! this game is realesed as unfinished business `finish it ZAW` you're doing a great job already. **Why making so many difficulties?** its a mod not FO5. why not simply release this mod in desolation mode only? together with a 1:1 damage ratio of course with an armor, damage and AI overhaul. in this case you would make sure everyone talking about the same issue(s). with various difficulties you and everyone else is doomed to run into confusion. `although i can understand your attitude if you say everyone should have the opportunity to play the game as they want.`
-
-Thanks for reading! there is much more in the sidepanel to explore.
+**Thanks for reading! there is much more in the sidepanel to explore.**
