@@ -1,48 +1,49 @@
 # Navigation
-**Installation: Difficulty / Survival System / Health Management**
-1. [Installation][Installation]
-1. [Difficulty][Difficulty]: General Tweaks
-1. [Desolation Mode][Desolation Mode]: Loot
-1. [Environment][Environment]: Weather, Stroms, Radiation
-1. [Survival System][Survival System]: [Conservation][Conservation] / [Metabolism][Metabolism] / [Nutrition][Nutrition] / [Move][Move]
+### Installation
+* [Difficulty][Difficulty]: General Tweaks, [Installation][Installation], NPCs/AI, Strict Carry Weight
+* * [Desolation Mode][Desolation Mode]: Loot
+* * [Environment][Environment]: Weather, Stroms, Radiation
+* * [Survival System][Survival System]: [Conservation][Conservation] / [Metabolism][Metabolism] / [Nutrition][Nutrition] / [Move][Move]
 
-**Combat (Armor, Damage, ...)**
-1. [Armor][Armor] (Overhaul): Resistance vs. Protection, Power Armor, Item Mods
-1. [Companions][Companions]: Dogmeat, Mysterious Stranger, [RC] Power Armor Suite, Wilson
-1. [Damage][Damage] (Overhaul): Kinetic Energy, Hit Zones, Blood Loss ...
-1. [Enemies][Enemies]: AI Behavior, Ambush, Player Threat, Enemy Logic, ...
-1. [Power Armor][Power Armor] (Overhaul)
-1. [V.A.T.S.][V.A.T.S.]
-1. [Weapons][Weapons] (Overhaul)
+### Combat
+* [Armor][Armor]: Resistance vs. Protection, Item Mods
+* * [Power Armor][Power Armor]
+* [Companions][Companions]: Dogmeat, Mysterious Stranger, Remote Controlled Power Armor Frame, Wilson
+* [Damage][Damage]: Kinetic Energy, Hit Zones, Blood Loss ...
+* [Enemies][Enemies]: AI Behavior, Ambush, Player Threat, Enemy Logic, ...
+* [Weapons][Weapons]: Logic, Mechanics, New, Weapon Mods
+* * Melee (Damage, Speed, Hit Zones)
+* * Firearms (Accuracy, Ammunition, Range, Recoil)
 
-**Character Progression**
-1. [Research Material][Research Material]
-1. [SPECIALs][SPECIALs]
-1. [Skill][Skill] (Overhaul)
 
-**Economy (Settlements, Building)**
-1. [Settlements][Settlements]
-1. [Architect][Settlements (Architect)]: Skill
-1. [Defense][Defense]
-1. [Settlements][Settlements (Enhanced)] (Enhanced)
-1. [Farming][Farming] (Skill)
-1. [Power][Settlements (Power)] Production
-1. [Production][Settlements (Production)] (General)
 
-**General**
-1. [Bugs][Bugs]
-1. [Crafting][Crafting]
-1. Crafting: [Cooking Station]
-1. [HUD][HUD] (Extended)
-1. [Trading][Trading]
+### Character
+* [SPECIALs][SPECIALs]
+* [Skill][Skill]: Active Skill Gain, Advanced & Core
+* * Combat
+* * Clandestine
+* * Crafting
+* * [Research Material][Research Material]
+* * Survival
+* * [V.A.T.S.][V.A.T.S.] (Perception)
 
-**Items (Materials, Components, ...)**
-1. [Chems][Chems]
-1. [Components][Components] + [Multi Component Parts][Multi Component Parts]
-1. [Health Items][Health Items]
-1. [Items][Items]
-1. [Micromanagement][Micromanagement]: Automation, Controls, Inventory Management, Notification, Time Grinder
-1. [Value][Value]: Items vs. Components
+### Economy
+* [Architect][Settlements (Architect)]: Buildings, Production, Skill, Workshop
+* [Settlements][Settlements]: Management, Rating ([Defense][Defense], ...), [Farming][Farming] (Brahmin Farms), Fishing, Production
+* [Settlements][Settlements (Enhanced)] (Enhanced): Control Panels & Locking Plates, Communities, Highway Location
+* [Power][Settlements (Power)] Production
+* [Production][Settlements (Production)] (General)
+
+### General
+* [Bugs][Bugs]: Major + Minor
+* [Crafting][Crafting]
+* * [Cooking Station]
+* [Micromanagement][Micromanagement]: Automation, Controls, [HUD][HUD] (Extended), Inventory Management, Notification, Time Grinder
+* [Trading][Trading]
+
+### Loot
+* [Items][Items]: [Chems][Chems], [Components][Components], [Health Items][Health Items], [Multi Component Parts][Multi Component Parts], Objects, [Research Material][Research Material]
+* * [Value][Value]: Items vs. Components
 
 [Armor]: https://github.com/Wastheland/Horizon/wiki/Armor
 [Bugs]: https://github.com/Wastheland/Horizon/wiki/Bugs
@@ -54,7 +55,7 @@
 [Crafting]: https://github.com/Wastheland/Horizon/wiki/Crafting
 [Damage]: https://github.com/Wastheland/Horizon/wiki/Damage-(Overhaul)
 [Defense]: https://github.com/Wastheland/Horizon/wiki/Settlements#defense
-[Desolation Mode]: https://github.com/Wastheland/Horizon/wiki/Desolation-Mode
+[Desolation Mode]: https://github.com/Wastheland/Horizon/wiki/Difficulty#desolation-mode
 [Difficulty]: https://github.com/Wastheland/Horizon/wiki/Difficulty
 [Enemies]: https://github.com/Wastheland/Horizon/wiki/Enemies
 [Environment]: https://github.com/Wastheland/Horizon/wiki/Environment
@@ -85,7 +86,7 @@
 [Weapons]: https://github.com/Wastheland/Horizon/wiki/Weapons
 
 # Background of this "Wiki"
-<img src="https://static.wikia.nocookie.net/f04horizon_gamepedia_en/images/e/e6/Site-logo.png" height="100" align="left">
+<img src="https://static.wikia.nocookie.net/f04horizon_gamepedia_en/images/e/e6/Site-logo.png" height="130" align="left">
 
 > _This Wiki presence is nothing more than a kind of compendium of ideas and vision of a more complex fallout. My way of saying thank you. Of course, i would really like to see all of these integrated into Horizon. It's not easy to describe something that doesn't exist in a way that everyone can understand. So don't hold it against me if every now and then whole nice grits are written. . `Thanks to everyone who took on the bombing of ideas and possibly even made them a reality.`_
 
@@ -99,7 +100,7 @@ I can't say enough this mod combines a lot of these and doesn't disappoint. It i
 
 # General Impulse
 
-**My Setup**
+### My Setup
 > So that everyone knows on which basis the arguments are made ... Horizon with some minor not game breaking mods. Mostly stuff which reduces load time and enhances performance.
 * Horizon 1.8 Beta 7
 * **Mods:** some of Greb's Horizon Essential Mods: https://nemal34.github.io/grebHorizonEssential/
@@ -113,7 +114,7 @@ I can't say enough this mod combines a lot of these and doesn't disappoint. It i
 
 ***
 
-**Skill Progression**
+### Skill Progression
 In my opinion everything really everything that the player receives makes NPCs more and more meaningless. NPCs have handicaps from the beginning and the biggest handicap is that the player only enjoys advantages. Almost every skill and perk should be actively increased by the so-called "skill gain mechanics". Skills can only be increased in this way and not by exchanging experience points.
 
 Combat skills make any attempt to balance the game useless. Sneak is all you need. If the NPC doesn't see you, he can't hit you either, he doesn't even aim at you. This means that every AI script is obsolete. There is no enemy who can track you down if you camouflage yourself accordingly. No robot that detects your thermal image, no mole rat that detects your noise. No NPC was injected with a script which one would call intelligent.
@@ -122,7 +123,7 @@ Because that's not enough if the NPCs don't notice you, you just have to elimina
 
 ***
 
-**Damage**
+### Damage
 harm should be absolute. if there is no protection, the damage is 100%. side effects (health) depend on the anatomy of the projectile. you could also limit the health of each enemy to 100 and the damage of each projectile to 100. now what exactly ensures that the damage is minimized? body part (priority of the organism), anatomy of the target, protection, regeneration, motivation, ... Substantial damage limitation is to be expected through armor. If this is insufficient, the damage is again close to 100%. depending on the target's anatomy, this could mean a reload.
 
 Depending on the impact and power of the projectile, this can either be just a prick or a part of the body is missing. a mechanic known from earlier fallout parts. if no part of the body is missing, even the prick will bleed, depending on the size of the wound canal, more or less blood will flow. less blood means less blood sugar. hypoglycaemia means black screen. blackscreen means fainting. no sight means no game. other side effects that can play a role: less movement speed, less accuracy, holding breath impossible, instand AP drain, and so on ...
@@ -131,7 +132,7 @@ Depending on the impact and power of the projectile, this can either be just a p
 
 ***
 
-**Bullet Sponge (No its not. YES IT IS!)**
+### Bullet Sponge
 > _See: https://github.com/Wastheland/Horizon/wiki/Damage-(Overhaul)_
 
 Vanilla Fallout 4 in the normal difficulty was very authentic as to the damage of certain, not to say all, firearms and so on. this is something that Horizon should also reinstate. besides all the great mechanics, the mod is very bullet spongy. so please change that so that at least there is an option to enable during installation. 1 to 3 projectiles next to what I mentioned above. only one projectile depending on the part of the body. depending on the level of protection, there can be several dozen. depending on the enemy, hundreds. and other technologies must be used (rocket launchers, mines, combat pets). a deathclaw cant be killed easily even with high powered rifles. then you have to aim correctly. What's the point of the belly button if the creature's two eyes are rendered unusable? A hit in the eye was possible in older parts of fallout. think about it!
@@ -150,7 +151,7 @@ Kill speed should look like that:
 
 ***
 
-**The Magic of Adhesive**
+### The Magic of Adhesive
 > Coat yourself in glue and let the magic of adhesive overwhelm your presence 😇
 
 `Wound healing is weird.. whether you ram oversized stimpaks into your groin or embalm your whole body with bandages. just think logically about the whole thing.` how bad is the blood loss? is a bandage enough? Yes? no? if not? what do you need then? a clamp? a belt? ok for the thigh. what if the stomach was hit? internal bleeding, yes, no? if so, then sh!t.
@@ -165,7 +166,7 @@ _at this point I advise everyone to play without armor at all. that really puts 
 
 ***
 
-**Building Settlements till there is no tomorrow**
+### Building Settlements till there is no tomorrow ..
 > _See: https://github.com/Wastheland/Horizon/wiki/Settlements_
 
 `Building settlements and using production takes an eternity to say the least. in that time i played the game 10 times and earned a lot more loot than the whole production would have ever done.`
@@ -178,15 +179,15 @@ pump a few points into the defense of your settlement and hardly ever expect att
 
 `💡 so if you want to put a stop to it, start with the damage, adjust the armor and the production. increase attacks on the settlement CLEARLY and generally the player threat because this increases due to increased production in the settlement.`
 
-**AI is waiting tooooo long ...**
+### AI is waiting tooooo long ..
 NPCs should attack the buildings and production facilities depending on the attack rating. depending on the value of the resources that are produced there. For example, if the player likes to play aggressively, he could increase the production rate but pay the price. that the attack rate increases significantly. In this case there are very interesting attacks and you should stay close to the settlement. that would unlock a whole series of dynamic and minimize the time grinder actions.
 
 > _See: https://github.com/Wastheland/Horizon/wiki/Enemies_
 
 The AI and NPCs in general is a big disappointment. simply stripped without great variance, even if horizon is already taking a strong countermeasure here. it still not finished. the main impact could be the increase in the field of vision. if NPCs could see as far as the player, there would be a lot more challenges. if the NPCs are equipped with precision rifles.. so why is the AI kept so small with handicaps. corvega a is a very good example that the AI gives a sh!t. _you can see so far from there you would notice almost everything.._
 
-> **Summary**
-> well there is so much room for improvement! this game is realesed as unfinished business `finish it ZAW` you're doing a great job already. **Why making so many difficulties?** its a mod not FO5. why not simply release this mod in desolation mode only? together with a 1:1 damage ratio of course with an armor, damage and AI overhaul. in this case you would make sure everyone talking about the same issue(s). with various difficulties you and everyone else is doomed to run into confusion. `although i can understand your attitude if you say everyone should have the opportunity to play the game as they want.`
+### Summary
+_This game is realesed as unfinished business `finish it ZAW` you're doing a great job already. **Why making so many difficulties?** its a mod not FO5. why not simply release this mod in desolation mode only? together with a 1:1 damage ratio of course with an armor, damage and AI overhaul. in this case you would make sure everyone talking about the same issue(s). with various difficulties you and everyone else is doomed to run into confusion. `although i can understand your attitude if you say everyone should have the opportunity to play the game as they want.`_
 
 ***
 
