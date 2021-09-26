@@ -30,7 +30,7 @@
 ### Economy
 * [Architect][Settlements (Architect)]: Buildings, Production, Skill, Workshop
 * [Settlements][Settlements]: Management, Rating ([Defense][Defense], ...), [Farming][Farming] (Brahmin Farms), Fishing, Production
-* [Settlements][Settlements (Enhanced)] (Enhanced): Control Panels & Locking Plates, Communities, Highway Location
+* [Settlements (Enhanced)][Settlements (Enhanced)]: Control Panels & Locking Plates, Communities, Highway Location
 * [Power][Settlements (Power)] Production
 * [Production][Settlements (Production)] (General)
 
@@ -45,7 +45,7 @@
 * [Items][Items]: [Chems][Chems], [Components][Components], [Health Items][Health Items], [Multi Component Parts][Multi Component Parts], Objects, [Research Material][Research Material]
 * * [Value][Value]: Items vs. Components
 
-[Armor]: https://github.com/Wastheland/Horizon/wiki/Armor
+[Armor]: https://github.com/Wastheland/Horizon/wiki/Combat#Armor
 [Bugs]: https://github.com/Wastheland/Horizon/wiki/Bugs
 [Chems]: https://github.com/Wastheland/Horizon/wiki/Items#chems
 [Cooking Station]: https://github.com/Wastheland/Horizon/wiki/Survival-System#cooking-station
@@ -53,7 +53,7 @@
 [Companions]: https://github.com/Wastheland/Horizon/wiki/Companions
 [Components]: https://github.com/Wastheland/Horizon/wiki/Items#components
 [Crafting]: https://github.com/Wastheland/Horizon/wiki/Crafting
-[Damage]: https://github.com/Wastheland/Horizon/wiki/Damage-(Overhaul)
+[Damage]: https://github.com/Wastheland/Horizon/wiki/Combat#damage
 [Defense]: https://github.com/Wastheland/Horizon/wiki/Settlements#defense
 [Desolation Mode]: https://github.com/Wastheland/Horizon/wiki/Difficulty#desolation-mode
 [Difficulty]: https://github.com/Wastheland/Horizon/wiki/Difficulty
@@ -70,20 +70,20 @@
 [Move]: https://github.com/Wastheland/Horizon/wiki/Survival-System#aerobic-vs-anaerobic-move
 [Multi Component Parts]: https://github.com/Wastheland/Horizon/wiki/Items#components-multi-component-parts
 [Nutrition]: https://github.com/Wastheland/Horizon/wiki/Survival-System#nutrition
-[Power Armor]: https://github.com/Wastheland/Horizon/wiki/Armor#power-armor
+[Power Armor]: https://github.com/Wastheland/Horizon/wiki/Combat#power-armor
 [Research Material]: https://github.com/Wastheland/Horizon/wiki/Items#research-material
 [Settlements]: https://github.com/Wastheland/Horizon/wiki/Settlements
 [Settlements (Architect)]: https://github.com/Wastheland/Horizon/wiki/Architect
-[Settlements (Enhanced)]: https://github.com/Wastheland/Horizon/wiki/Settlements-(Enhanced)
+[Settlements (Enhanced)]: https://github.com/Wastheland/Horizon/wiki/Settlements#enhanced-settlements
 [Settlements (Power)]: https://github.com/Wastheland/Horizon/wiki/Settlements-(Production)#power-1
-[Settlements (Production)]: https://github.com/Wastheland/Horizon/wiki/Production
+[Settlements (Production)]: https://github.com/Wastheland/Horizon/wiki/Architect#Production
 [Skill]: https://github.com/Wastheland/Horizon/wiki/Skill-(Overhaul)
 [SPECIALs]: https://github.com/Wastheland/Horizon/wiki/SPECIALs
 [Survival System]: https://github.com/Wastheland/Horizon/wiki/Survival-System
 [Trading]: https://github.com/Wastheland/Horizon/wiki/Trading
 [V.A.T.S.]: https://github.com/Wastheland/Horizon/wiki/SPECIALs#vats
 [Value]: https://github.com/Wastheland/Horizon/wiki/Items#value
-[Weapons]: https://github.com/Wastheland/Horizon/wiki/Weapons
+[Weapons]: https://github.com/Wastheland/Horizon/wiki/Combat#Weapons
 
 # Background of this "Wiki"
 <img src="https://static.wikia.nocookie.net/f04horizon_gamepedia_en/images/e/e6/Site-logo.png" height="130" align="left">
