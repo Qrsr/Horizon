@@ -1,3 +1,5 @@
+<img src="https://github.com/Wastheland/HorizonData/blob/main/%23Intro.jpg" width="880">
+
 # Navigation
 ### Installation
 * [Difficulty][Difficulty]: General Tweaks, [Installation][Installation], NPCs/AI, Strict Carry Weight
@@ -53,7 +55,7 @@
 [Companions]: https://github.com/Wastheland/Horizon/wiki/Companions
 [Components]: https://github.com/Wastheland/Horizon/wiki/Items#components
 [Crafting]: https://github.com/Wastheland/Horizon/wiki/Crafting
-[Damage]: https://github.com/Wastheland/Horizon/wiki/Combat#damage
+[Damage]: https://github.com/Wastheland/Horizon/wiki/Combat#everything-hurts
 [Defense]: https://github.com/Wastheland/Horizon/wiki/Settlements#defense
 [Desolation Mode]: https://github.com/Wastheland/Horizon/wiki/Difficulty#desolation-mode
 [Difficulty]: https://github.com/Wastheland/Horizon/wiki/Difficulty
@@ -138,13 +140,9 @@ Depending on the impact and power of the projectile, this can either be just a p
 Vanilla Fallout 4 in the normal difficulty was very authentic as to the damage of certain, not to say all, firearms and so on. this is something that Horizon should also reinstate. besides all the great mechanics, the mod is very bullet spongy. so please change that so that at least there is an option to enable during installation. 1 to 3 projectiles next to what I mentioned above. only one projectile depending on the part of the body. depending on the level of protection, there can be several dozen. depending on the enemy, hundreds. and other technologies must be used (rocket launchers, mines, combat pets). a deathclaw cant be killed easily even with high powered rifles. then you have to aim correctly. What's the point of the belly button if the creature's two eyes are rendered unusable? A hit in the eye was possible in older parts of fallout. think about it!
 
 Kill speed should look like that:
-<div align="left">
-      <a href="https://youtu.be/mZNGtmMxZhA?t=805">
-     <img src="https://img.youtube.com/vi/mZNGtmMxZhA/0.jpg" height="250"">
-      <a href="https://youtu.be/mZNGtmMxZhA?t=3177">
-     <img src="https://img.youtube.com/vi/mZNGtmMxZhA/0.jpg" height="250"">
-      </a>
-    </div>
+
+<a href="https://youtu.be/mZNGtmMxZhA?t=805"><img src="https://img.youtube.com/vi/mZNGtmMxZhA/0.jpg" height="250">
+<a href="https://youtu.be/mZNGtmMxZhA?t=3177"><img src="https://img.youtube.com/vi/mZNGtmMxZhA/0.jpg" height="250">
 
 * for body hits 2 or 3 hits thats it ...
 * gore effect should be based on damage (type, caliber)
