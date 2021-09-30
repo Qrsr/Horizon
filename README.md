@@ -2,90 +2,50 @@
 
 # Navigation
 ### Installation
-* [Difficulty][Difficulty]: General Tweaks, [Installation][Installation], NPCs/AI, Strict Carry Weight
-* * [Desolation Mode][Desolation Mode]: Loot
-* * [Environment][Environment]: Weather, Stroms, Radiation
-* * [Survival System][Survival System]: [Conservation][Conservation] / [Metabolism][Metabolism] / [Nutrition][Nutrition] / [Move][Move]
+* [Difficulty](https://github.com/Wastheland/Horizon/wiki/Difficulty): General Tweaks, [Installation](https://github.com/Wastheland/Horizon/wiki/Difficulty#installation), NPCs/AI, Strict Carry Weight
+* * [Desolation Mode](https://github.com/Wastheland/Horizon/wiki/Difficulty#desolation-mode): Loot
+* * [Environment](https://github.com/Wastheland/Horizon/wiki/Environment): Weather, Stroms, Radiation
+* * [Survival System](https://github.com/Wastheland/Horizon/wiki/Survival-System): [Conservation](https://github.com/Wastheland/Horizon/wiki/Survival-System#conservation) / [Metabolism](https://github.com/Wastheland/Horizon/wiki/Survival-System#metabolism) / [Nutrition](https://github.com/Wastheland/Horizon/wiki/Survival-System#nutrition) / [Move](https://github.com/Wastheland/Horizon/wiki/Survival-System#aerobic-vs-anaerobic-move)
 
 ### Combat
-* [Armor][Armor]: Resistance vs. Protection, Item Mods
-* * [Power Armor][Power Armor]
-* [Companions][Companions]: Dogmeat, Mysterious Stranger, Remote Controlled Power Armor Frame, Wilson
-* [Damage][Damage]: Kinetic Energy, Hit Zones, Blood Loss ...
-* [Enemies][Enemies]: AI Behavior, Ambush, Player Threat, Enemy Logic, ...
-* [Weapons][Weapons]: Logic, Mechanics, New, Weapon Mods
+* [Armor](https://github.com/Wastheland/Horizon/wiki/Combat#Armor): Resistance vs. Protection, Item Mods
+* * [Power Armor](https://github.com/Wastheland/Horizon/wiki/Combat#power-armor)
+* [Companions](https://github.com/Wastheland/Horizon/wiki/Companions): Dogmeat, Mysterious Stranger, Remote Controlled Power Armor Frame, Wilson
+* [Damage](https://github.com/Wastheland/Horizon/wiki/Combat#everything-hurts): Kinetic Energy, Hit Zones, Blood Loss ...
+* [Enemies](https://github.com/Wastheland/Horizon/wiki/Enemies): AI Behavior, Ambush, Player Threat, Enemy Logic, ...
+* [Weapons](https://github.com/Wastheland/Horizon/wiki/Combat#Weapons): Logic, Mechanics, New, Weapon Mods
 * * Melee (Damage, Speed, Hit Zones)
 * * Firearms (Accuracy, Ammunition, Range, Recoil)
 
 
 
 ### Character
-* [SPECIALs][SPECIALs]
-* [Skill][Skill]: Active Skill Gain, Advanced & Core
+* [SPECIALs](https://github.com/Wastheland/Horizon/wiki/SPECIALs)
+* [Skill](https://github.com/Wastheland/Horizon/wiki/Skill-(Overhaul)): Active Skill Gain, Advanced & Core
 * * Combat
 * * Clandestine
 * * Crafting
-* * [Research Material][Research Material]
+* * [Research Material](https://github.com/Wastheland/Horizon/wiki/Items#research-material)
 * * Survival
-* * [V.A.T.S.][V.A.T.S.] (Perception)
+* * [V.A.T.S.](https://github.com/Wastheland/Horizon/wiki/SPECIALs#vats) (Perception)
 
 ### Economy
-* [Architect][Settlements (Architect)]: Buildings, Production, Skill, Workshop
-* [Settlements][Settlements]: Management, Rating ([Defense][Defense], ...), [Farming][Farming] (Brahmin Farms), Fishing, Production
-* [Settlements (Enhanced)][Settlements (Enhanced)]: Control Panels & Locking Plates, Communities, Highway Location
-* [Power][Settlements (Power)] Production
-* [Production][Settlements (Production)] (General)
+* [Architect](https://github.com/Wastheland/Horizon/wiki/Architect): Buildings, Production, Skill, Workshop
+* [Settlements](https://github.com/Wastheland/Horizon/wiki/Settlements): Management, Rating ([Defense](https://github.com/Wastheland/Horizon/wiki/Settlements#defense), ...), [Farming](https://github.com/Wastheland/Horizon/wiki/Settlements#farming) (Brahmin Farms), Fishing, Production
+* [Settlements (Enhanced)](https://github.com/Wastheland/Horizon/wiki/Settlements#enhanced-settlements): Control Panels & Locking Plates, Communities, Highway Location
+* [Production](https://github.com/Wastheland/Horizon/wiki/Architect#Production): [Power](https://github.com/Wastheland/Horizon/wiki/Architect#power-buildings)
 
 ### General
-* [Bugs][Bugs]: Major + Minor
-* [Crafting][Crafting]
-* * [Cooking Station]
-* [Micromanagement][Micromanagement]: Automation, Controls, [HUD][HUD] (Extended), Inventory Management, Notification, Time Grinder
-* [Trading][Trading]
+* [Bugs](https://github.com/Wastheland/Horizon/wiki/Bugs): Major + Minor
+* [Crafting](https://github.com/Wastheland/Horizon/wiki/Crafting)
+* * [Cooking Station](https://github.com/Wastheland/Horizon/wiki/Survival-System#cooking-station)
+* [Micromanagement](https://github.com/Wastheland/Horizon/wiki/Micromanagement): Automation, Controls, [HUD](https://github.com/Wastheland/Horizon/wiki/Micromanagement#hud) (Extended), Inventory Management, Notification, Time Grinder
+* [Trading](https://github.com/Wastheland/Horizon/wiki/Trading)
 
 ### Loot
-* [Items][Items]: [Chems][Chems], [Components][Components], [Health Items][Health Items], [Multi Component Parts][Multi Component Parts], Objects, [Research Material][Research Material]
-* * [Value][Value]: Items vs. Components
-
-[Armor]: https://github.com/Wastheland/Horizon/wiki/Combat#Armor
-[Bugs]: https://github.com/Wastheland/Horizon/wiki/Bugs
-[Chems]: https://github.com/Wastheland/Horizon/wiki/Items#chems
-[Cooking Station]: https://github.com/Wastheland/Horizon/wiki/Survival-System#cooking-station
-[Conservation]: https://github.com/Wastheland/Horizon/wiki/Survival-System#conservation
-[Companions]: https://github.com/Wastheland/Horizon/wiki/Companions
-[Components]: https://github.com/Wastheland/Horizon/wiki/Items#components
-[Crafting]: https://github.com/Wastheland/Horizon/wiki/Crafting
-[Damage]: https://github.com/Wastheland/Horizon/wiki/Combat#everything-hurts
-[Defense]: https://github.com/Wastheland/Horizon/wiki/Settlements#defense
-[Desolation Mode]: https://github.com/Wastheland/Horizon/wiki/Difficulty#desolation-mode
-[Difficulty]: https://github.com/Wastheland/Horizon/wiki/Difficulty
-[Enemies]: https://github.com/Wastheland/Horizon/wiki/Enemies
-[Environment]: https://github.com/Wastheland/Horizon/wiki/Environment
-[Experience]: https://github.com/Wastheland/Horizon/wiki/Experience
-[Farming]: https://github.com/Wastheland/Horizon/wiki/Settlements#farming
-[Health Items]: https://github.com/Wastheland/Horizon/wiki/Items#health-items
-[HUD]: https://github.com/Wastheland/Horizon/wiki/Micromanagement#hud
-[Installation]: https://github.com/Wastheland/Horizon/wiki/Difficulty#installation
-[Items]: https://github.com/Wastheland/Horizon/wiki/Items
-[Metabolism]: https://github.com/Wastheland/Horizon/wiki/Survival-System#metabolism
-[Micromanagement]: https://github.com/Wastheland/Horizon/wiki/Micromanagement
-[Move]: https://github.com/Wastheland/Horizon/wiki/Survival-System#aerobic-vs-anaerobic-move
-[Multi Component Parts]: https://github.com/Wastheland/Horizon/wiki/Items#components-multi-component-parts
-[Nutrition]: https://github.com/Wastheland/Horizon/wiki/Survival-System#nutrition
-[Power Armor]: https://github.com/Wastheland/Horizon/wiki/Combat#power-armor
-[Research Material]: https://github.com/Wastheland/Horizon/wiki/Items#research-material
-[Settlements]: https://github.com/Wastheland/Horizon/wiki/Settlements
-[Settlements (Architect)]: https://github.com/Wastheland/Horizon/wiki/Architect
-[Settlements (Enhanced)]: https://github.com/Wastheland/Horizon/wiki/Settlements#enhanced-settlements
-[Settlements (Power)]: https://github.com/Wastheland/Horizon/wiki/Settlements-(Production)#power-1
-[Settlements (Production)]: https://github.com/Wastheland/Horizon/wiki/Architect#Production
-[Skill]: https://github.com/Wastheland/Horizon/wiki/Skill-(Overhaul)
-[SPECIALs]: https://github.com/Wastheland/Horizon/wiki/SPECIALs
-[Survival System]: https://github.com/Wastheland/Horizon/wiki/Survival-System
-[Trading]: https://github.com/Wastheland/Horizon/wiki/Trading
-[V.A.T.S.]: https://github.com/Wastheland/Horizon/wiki/SPECIALs#vats
-[Value]: https://github.com/Wastheland/Horizon/wiki/Items#value
-[Weapons]: https://github.com/Wastheland/Horizon/wiki/Combat#Weapons
+* [Loot](https://github.com/Wastheland/Horizon/wiki/Difficulty#loot)
+* [Items](https://github.com/Wastheland/Horizon/wiki/Items): [Chems](https://github.com/Wastheland/Horizon/wiki/Items#chems), [Components](https://github.com/Wastheland/Horizon/wiki/Items#components), [Health Items](https://github.com/Wastheland/Horizon/wiki/Items#health-items), [Multi Component Parts](https://github.com/Wastheland/Horizon/wiki/Items#components-multi-component-parts), Objects, [Research Material](https://github.com/Wastheland/Horizon/wiki/Items#research-material)
+* * [Value](https://github.com/Wastheland/Horizon/wiki/Items#value): Items vs. Components
 
 # Background of this "Wiki"
 <img src="https://static.wikia.nocookie.net/f04horizon_gamepedia_en/images/e/e6/Site-logo.png" height="130" align="left">
@@ -135,7 +95,7 @@ Depending on the impact and power of the projectile, this can either be just a p
 ***
 
 ### Bullet Sponge
-> _See: https://github.com/Wastheland/Horizon/wiki/Damage-(Overhaul)_
+> _See: https://github.com/Wastheland/Horizon/wiki/Combat#everything-hurts_
 
 Vanilla Fallout 4 in the normal difficulty was very authentic as to the damage of certain, not to say all, firearms and so on. this is something that Horizon should also reinstate. besides all the great mechanics, the mod is very bullet spongy. so please change that so that at least there is an option to enable during installation. 1 to 3 projectiles next to what I mentioned above. only one projectile depending on the part of the body. depending on the level of protection, there can be several dozen. depending on the enemy, hundreds. and other technologies must be used (rocket launchers, mines, combat pets). a deathclaw cant be killed easily even with high powered rifles. then you have to aim correctly. What's the point of the belly button if the creature's two eyes are rendered unusable? A hit in the eye was possible in older parts of fallout. think about it!
 
