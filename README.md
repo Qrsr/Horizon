@@ -1,5 +1,11 @@
 <img src="https://github.com/Wastheland/HorizonData/blob/main/%23Intro.jpg" width="880">
 
+💠 **`Special THANKS to Zawinul` for _Horizon_! A work of art. Made up for the whole ruined Fallout 4 experience for me!** 💠
+
+> _This Wiki presence is nothing more than a kind of compendium of ideas and vision of a more complex fallout. My way of saying thank you. Of course, i would really like to see all of these integrated into Horizon. It's not easy to describe something that doesn't exist in a way that everyone can understand. So don't hold it against me if every now and then whole nice grits are written. `AND Thanks to everyone who took on the bombing of ideas and possibly even made them a reality.`_
+
+***
+
 # Navigation
 ### Installation
 * [Difficulty](https://github.com/Wastheland/Horizon/wiki/Difficulty): General Tweaks, [Installation](https://github.com/Wastheland/Horizon/wiki/Difficulty#installation), NPCs/AI, Strict Carry Weight
@@ -16,8 +22,6 @@
 * [Weapons](https://github.com/Wastheland/Horizon/wiki/Combat#Weapons): Logic, Mechanics, New, Weapon Mods
 * * Melee (Damage, Speed, Hit Zones)
 * * Firearms (Accuracy, Ammunition, Range, Recoil)
-
-
 
 ### Character
 * [SPECIALs](https://github.com/Wastheland/Horizon/wiki/SPECIALs)
@@ -47,12 +51,8 @@
 * [Items](https://github.com/Wastheland/Horizon/wiki/Items): [Chems](https://github.com/Wastheland/Horizon/wiki/Items#chems), [Components](https://github.com/Wastheland/Horizon/wiki/Items#components), [Health Items](https://github.com/Wastheland/Horizon/wiki/Items#health-items), [Multi Component Parts](https://github.com/Wastheland/Horizon/wiki/Items#components-multi-component-parts), Objects, [Research Material](https://github.com/Wastheland/Horizon/wiki/Items#research-material)
 * * [Value](https://github.com/Wastheland/Horizon/wiki/Items#value): Items vs. Components
 
-# Background of this "Wiki"
+# Preface
 <img src="https://static.wikia.nocookie.net/f04horizon_gamepedia_en/images/e/e6/Site-logo.png" height="130" align="left">
-
-> _This Wiki presence is nothing more than a kind of compendium of ideas and vision of a more complex fallout. My way of saying thank you. Of course, i would really like to see all of these integrated into Horizon. It's not easy to describe something that doesn't exist in a way that everyone can understand. So don't hold it against me if every now and then whole nice grits are written. . `Thanks to everyone who took on the bombing of ideas and possibly even made them a reality.`_
-
-💠 `Special THANKS to Zawinul` for the publicly accessible experience: _Horizon_! A work of art. made up for the whole ruined Fallout 4 experience for me! 💠
 
 I can't say enough this mod combines a lot of these and doesn't disappoint. It is art at the highest level. _Support the mod and it will grow and become something really big that will affect many._ The real art of programming and designing a game is not to look beautiful, pictures that hang on the wall can do that much better, but to create an experience, a world that, although it is surreal, pulls you under its spell to such an extent that you forget everything else. If a game or a mod appears inauthentic from the start, the whole magic is quickly over. `it is true art when the player is put into a trance, a kind of hypnotic state in which he sinks and feels good and forgets everything around him. everything that breaks this state is failure on the part of whoever publishes the game.`
 
@@ -86,9 +86,9 @@ Because that's not enough if the NPCs don't notice you, you just have to elimina
 ***
 
 ### Damage
-harm should be absolute. if there is no protection, the damage is 100%. side effects (health) depend on the anatomy of the projectile. you could also limit the health of each enemy to 100 and the damage of each projectile to 100. now what exactly ensures that the damage is minimized? body part (priority of the organism), anatomy of the target, protection, regeneration, motivation, ... Substantial damage limitation is to be expected through armor. If this is insufficient, the damage is again close to 100%. depending on the target's anatomy, this could mean a reload.
+Harm should be absolute and fatal. if there is no protection, damage is 100%. side effects (health drop, bleeding) depend on the anatomy of the projectile. _you could also limit the health of each enemy to 100 and the damage of each projectile to 100 if no armor is valid_. now what exactly ensures that the damage is minimized? body part (priority of the organism), anatomy of the target, protection, regeneration, motivation, ... Substantial damage limitation is to be expected through armor. If this is insufficient, the damage is again close to 100%. depending on the target's anatomy, this could mean a reload.
 
-Depending on the impact and power of the projectile, this can either be just a prick or a part of the body is missing. a mechanic known from earlier fallout parts. if no part of the body is missing, even the prick will bleed, depending on the size of the wound canal, more or less blood will flow. less blood means less blood sugar. hypoglycaemia means black screen. blackscreen means fainting. no sight means no game. other side effects that can play a role: less movement speed, less accuracy, holding breath impossible, instand AP drain, and so on ...
+Depending on the impact and power of the projectile, this can either be just a prick or a part of the body is missing. a mechanic known from earlier fallout parts. if no part of the body is missing, even the prick will bleed, depending on the size of the wound channel, more or less blood will flow. bleeding → blood sugar ↓ (hypoglycaemia) → black screen → fainting → game over / reload. other side effects that can play a role: less movement speed, less accuracy, holding breath impossible, instand AP drain, and so on ...
 
 > **Blood loss** is a mechanic that has serious consequences and is extremely interesting for a "survival game"! prevention and care alone offer a large amount of leeway.
 
@@ -97,15 +97,12 @@ Depending on the impact and power of the projectile, this can either be just a p
 ### Bullet Sponge
 > _See: https://github.com/Wastheland/Horizon/wiki/Combat#everything-hurts_
 
-Vanilla Fallout 4 in the normal difficulty was very authentic as to the damage of certain, not to say all, firearms and so on. this is something that Horizon should also reinstate. besides all the great mechanics, the mod is very bullet spongy. so please change that so that at least there is an option to enable during installation. 1 to 3 projectiles next to what I mentioned above. only one projectile depending on the part of the body. depending on the level of protection, there can be several dozen. depending on the enemy, hundreds. and other technologies must be used (rocket launchers, mines, combat pets). a deathclaw cant be killed easily even with high powered rifles. then you have to aim correctly. What's the point of the belly button if the creature's two eyes are rendered unusable? A hit in the eye was possible in older parts of fallout. think about it!
+Vanilla Fallout 4 in the normal difficulty was very authentic as to the damage of certain, not to say all, firearms and so on. this is something that _Horizon_ should also reinstate. besides all the great mechanics, the mod is very bullet spongy. please change that, at least inject an option during installation. 1 to 3 projectiles next to what I mentioned above. only one projectile depending on the part of the body (weapon scaling is just ... without words). _depending on the level of protection, there can be several dozen. depending on the enemy, hundreds. and other technologies must be used (rocket launchers, mines, combat pets). a deathclaw cant be killed easily even with high powered rifles. then you have to aim correctly. What's the point of the belly button if the creature's two eyes are rendered unusable? A hit in the eye was possible in older parts of fallout._ think about it!
 
 Kill speed should look like that:
 
 <a href="https://youtu.be/mZNGtmMxZhA?t=805"><img src="https://img.youtube.com/vi/mZNGtmMxZhA/0.jpg" height="250">
 <a href="https://youtu.be/mZNGtmMxZhA?t=3177"><img src="https://img.youtube.com/vi/mZNGtmMxZhA/0.jpg" height="250">
-
-* for body hits 2 or 3 hits thats it ...
-* gore effect should be based on damage (type, caliber)
 
 ***
 
@@ -113,6 +110,8 @@ Kill speed should look like that:
 > Coat yourself in glue and let the magic of adhesive overwhelm your presence 😇
 
 `Wound healing is weird.. whether you ram oversized stimpaks into your groin or embalm your whole body with bandages. just think logically about the whole thing.` how bad is the blood loss? is a bandage enough? Yes? no? if not? what do you need then? a clamp? a belt? ok for the thigh. what if the stomach was hit? internal bleeding, yes, no? if so, then sh!t.
+
+the need for a doctor or the expansion of medical skills could definitely use more logic and complexity. it is too important and essential not to expand this further. smaller wounds can be bandaged or treated in the field, fractures, dislocated joints etc. but severe wounds need hours / days to be healed and that should then be "bought" in resources. a doctor is essential, possibly special combat pets, a robot (eye-bot) that only offers medical support (like wilson only as a doctor). that would be absolutely awesome!
 
 basically that's enough to get started. so what if each projectile can already cause great damage (blood loss). of course you need adequate armor. which can be a hindrance depending on the technology. if that annoys you, it is better not to get hit and disappear in the shadow. BUT although the armor keeps the projectile away where is the kinetic energy going? in the armor, behind the armor, on the body so yes damage, health loss, blunt damage. something harder in case of high powered rifles: POWER ARMOR.
 
@@ -129,7 +128,7 @@ _at this point I advise everyone to play without armor at all. that really puts 
 
 `Building settlements and using production takes an eternity to say the least. in that time i played the game 10 times and earned a lot more loot than the whole production would have ever done.`
 
-the production times (real time) are simply too long. I can understand that you want to put a stop to one or the other but 15, 30, 90 minutes? why there is no modifier based on technology and so on? no matter how everything is produced, nobody cares. the commonwealth gives a sh!t!
+the production times (real-time) are simply too long. I can understand that you want to put a stop to one or the other but 15, 30, 90 minutes? why there is no modifier based on technology and so on? no matter how everything is produced, nobody cares. the commonwealth gives a sh!t!
 
 pump a few points into the defense of your settlement and hardly ever expect attacks. _seriously: everyone sees the smoke from the production for miles and knows that the party is going on there_. why do certain buildings not have an attack rating to increase this? why are attacks on those settlements not increasing?
 
@@ -137,12 +136,14 @@ pump a few points into the defense of your settlement and hardly ever expect att
 
 `💡 so if you want to put a stop to it, start with the damage, adjust the armor and the production. increase attacks on the settlement CLEARLY and generally the player threat because this increases due to increased production in the settlement.`
 
+set up a settlement threat counter. or an attack rate that counts specifically or individually for each building.
+
 ### AI is waiting tooooo long ..
-NPCs should attack the buildings and production facilities depending on the attack rating. depending on the value of the resources that are produced there. For example, if the player likes to play aggressively, he could increase the production rate but pay the price. that the attack rate increases significantly. In this case there are very interesting attacks and you should stay close to the settlement. that would unlock a whole series of dynamic and minimize the time grinder actions.
+the NPCs basically have a very solid script. If you only increase their range of recognizing the player and FoV they become very dangerous! _if NPCs could see as far as the player, there would be a lot more challenges. corvega a is a very good example that the AI gives a sh!t. Just imagine if their sniper can see the player from a distance long before he has a chance to fire a shot, unless he is sneaking ..._ despawn weapons that simply do little damage or are counterproductive for the respective situation (player vs. AI, AI checks if equipment is appropiate for situation).
+
+Also, NPCs should attack the buildings and production facilities depending on the attack rating. depending on the value of the resources that are produced there. For example, if the player likes to play aggressively, he could increase the production rate but pay the price. that the attack rate increases significantly. In this case there are very interesting attacks and you should stay close to the settlement. that would unlock a whole series of dynamic and minimize the time grinder actions.
 
 > _See: https://github.com/Wastheland/Horizon/wiki/Enemies_
-
-The AI and NPCs in general is a big disappointment. simply stripped without great variance, even if horizon is already taking a strong countermeasure here. it still not finished. the main impact could be the increase in the field of vision. if NPCs could see as far as the player, there would be a lot more challenges. if the NPCs are equipped with precision rifles.. so why is the AI kept so small with handicaps. corvega a is a very good example that the AI gives a sh!t. _you can see so far from there you would notice almost everything.._
 
 ### Summary
 _This game is realesed as unfinished business `finish it ZAW` you're doing a great job already. **Why making so many difficulties?** its a mod not FO5. why not simply release this mod in desolation mode only? together with a 1:1 damage ratio of course with an armor, damage and AI overhaul. in this case you would make sure everyone talking about the same issue(s). with various difficulties you and everyone else is doomed to run into confusion. `although i can understand your attitude if you say everyone should have the opportunity to play the game as they want.`_
